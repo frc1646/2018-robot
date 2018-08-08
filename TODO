@@ -1,0 +1,14 @@
+OI (Joysticks/Buttons created)
+Robot (Gathers all subsystems together/Autonomous Code)
+RobotMap (Map more stuff)
+
+Vision 
+Autonomous (what should the robot do when it sees a power cube?)
+
+//Commands
+Mechanum (spin as it moves)
+Autonomous
+
+//Ramp?
+
+Image the roboRIOs (there's two of them)
